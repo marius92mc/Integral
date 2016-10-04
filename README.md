@@ -21,7 +21,6 @@ represented by the f function in the .cpp file.
 
 ```
 --------- n = 100000 --------
-```
 
 ###### Rectangle Method
 * 0.0238566370
@@ -46,3 +45,4 @@ represented by the f function in the .cpp file.
 
 ###### Gauss with 3 nodes method
 * 0.0238566466
+```
