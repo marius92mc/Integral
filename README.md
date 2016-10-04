@@ -9,14 +9,14 @@ represented by the f function in the .cpp file.
 
 ### Example:
 
-##### [integral.in][dill]
+##### integral.in
 
 
 ```
 -1 1
 100000
 ```
-##### [integral.out][dill]
+##### integral.out
 
 
 ```
