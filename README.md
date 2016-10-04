@@ -22,27 +22,27 @@ represented by the f function in the .cpp file.
 ```
 --------- n = 100000 --------
 
-###### Rectangle Method
-* 0.0238566370
+Rectangle Method
+  0.0238566370
 
-###### Trapeze Method
-* 0.0238566370
+Trapeze Method
+  0.0238566370
 
-###### Simpson's Method
-* 0.0238566427
+Simpson's Method
+  0.0238566427
 
-###### Boole's Method
-* 0.0238566373
+Boole's Method
+  0.0238566373
 
-###### Newton-Cotes with 2 nodes method
-* 0.0238566519
+Newton-Cotes with 2 nodes method
+  0.0238566519
 
-###### Newton-Cotes with 3 nodes method
-* 0.0238566358
+Newton-Cotes with 3 nodes method
+  0.0238566358
 
-###### Gauss with 2 nodes method
-* 0.0238566472
+Gauss with 2 nodes method
+  0.0238566472
 
-###### Gauss with 3 nodes method
-* 0.0238566466
+Gauss with 3 nodes method
+  0.0238566466
 ```
