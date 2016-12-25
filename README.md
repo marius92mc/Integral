@@ -7,15 +7,21 @@ With bigger n comes a better precision of the integral value.
 The function that we want to compute the integral is
 represented by the f function in the .cpp file.
 
-### Example:
+## Compile 
+    
+    $ g++ -std=c++0x -o integral integral.cpp 
+
+## Run
+
+    $ ./integral
 
 ##### integral.in
-
 
 ```
 -1 1
 100000
 ```
+
 ##### integral.out
 
 
@@ -46,3 +52,7 @@ Gauss with 2 nodes method
 Gauss with 3 nodes method
   0.0238566466
 ```
+
+## License 
+MIT 
+
